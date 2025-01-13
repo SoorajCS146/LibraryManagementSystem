@@ -1,4 +1,4 @@
-# library-management-sys
+# library-management-sys :
 
 ## Overview
 This project is an open-source Library Management System designed to:
@@ -19,7 +19,7 @@ This project is an open-source Library Management System designed to:
 2. Create and activate virtual environment:
 
 `python -m venv library-management-sys`
-`source library-management-sys/bin/activate`  # For Linux/Mac
+`source library-management-sys/bin/activate`  # For Linux/Mac.
 
 
 3. Install backend dependencies:
@@ -64,11 +64,11 @@ To run unit tests, use the following command:
 
 This will run the tests in the tests/test_models.py file.
 
-## Dependencies
+## Dependencies.
 
 1. Python 3.6+
-2. Flask (or any other web framework if preferred)
-3. SQLAlchemy (if using a database)
+2. Flask (or any other web framework if preferred).
+3. SQLAlchemy (if using a database).
 
 You can install these dependencies by running:
 
