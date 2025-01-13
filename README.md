@@ -78,6 +78,11 @@ You can install these dependencies by running:
 ## Contributing
 We welcome contributions! To contribute, fork the repository, make changes, and submit a pull request with a description of what was changed.
 
+Sooraj - Project Lead
+Manvith - FrontEnd Feature Developer
+Shivshankar - BackEnd Feature Developer
+Yashwanth - Documentation Lead
+
 ## License
 This project is licensed under the GPL-3.0 License - see the LICENSE file for details.
 
